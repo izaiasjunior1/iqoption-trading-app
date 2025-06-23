@@ -1,0 +1,13 @@
+flask==2.3.3
+flask-cors==4.0.0
+flask-wtf==1.2.1
+websocket-client==0.56.0
+requests==2.31.0
+pandas==2.1.1
+numpy==1.26.0
+matplotlib==3.8.0
+ta-lib==0.4.28
+python-dotenv==1.0.0
+gunicorn==21.2.0
+fx-iqoption==1.0.16
+pytest==7.4.2
